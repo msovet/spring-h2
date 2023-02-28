@@ -4,4 +4,6 @@
 *.iml
 *.ipr
 .mvn
+target
+HELP.md
 mvnw.cmd
